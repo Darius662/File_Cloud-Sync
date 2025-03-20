@@ -3,8 +3,8 @@ param (
 )
 
 # Define source paths
-$sourceE = "\\europe.bmw.corp\DDFS1\ca\proj\ofmt_p01\$rootfolder"
-$sourceZ = "\\mdmweb0rwjyj0prod.file.core.windows.net\emil-input\WEBCLIENT\$rootfolder"
+$sourceE = "E:\$rootfolder"
+$sourceZ = "Z:\$rootfolder"
 
 # Define log file path within a "Logs" folder in the script's directory
 $logFolder = Join-Path -Path $PSScriptRoot -ChildPath "Logs"

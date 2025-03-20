@@ -17,7 +17,7 @@ Features
 Both the local (```E:```) and remote (```Z:```) drives should follow this folder structure:
 ```ruby
 E:\ (or Z:\)
-├── Werk1
+├── Folder1
 │   ├── Project1
 │   │   ├── _retry
 │   │   ├── _fehler
@@ -30,7 +30,7 @@ E:\ (or Z:\)
 │       ├── _readme
 │       ├── _logs
 │       └── _copy
-└── Werk2
+└── Fodler2
     ├── Project1
     └── Project2
 ```
